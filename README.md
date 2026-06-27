@@ -1,7 +1,7 @@
 # Part 1 — Business Data Cleaning, Validation & Excel Reporting
 
 **Analyst:** Harshwardhan Srivastava (bitsom_ba_2511581)
-**Repository:** harshwardhan_srivastava_bitsom_ba_2511581-part1-data-cleaning
+**Repository:** harshwardhan_srivastava_bitsom_ba_2511581_part1_data_cleaning
 
 ---
 
